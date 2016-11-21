@@ -13,7 +13,6 @@ coding=utf-8
 from sys import version_info
 import imghdr
 import json, time
-import os
 import warnings
 
 # HTTP libraries depends upon Python 2 or 3
