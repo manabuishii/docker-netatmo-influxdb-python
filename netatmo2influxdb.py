@@ -4,8 +4,9 @@
 from pytz import timezone
 import datetime
 from influxdb import InfluxDBClient
-import lnetatmo
 import json
+import lnetatmo
+import os
 import sys
 
 #
