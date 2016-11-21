@@ -11,8 +11,9 @@ PythonAPI Netatmo REST data access
 coding=utf-8
 """
 from sys import version_info
-import json, time
 import imghdr
+import json, time
+import os
 import warnings
 
 # HTTP libraries depends upon Python 2 or 3
