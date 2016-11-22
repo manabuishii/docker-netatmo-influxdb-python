@@ -1,4 +1,4 @@
-# docker netatom influxdb python
+# docker netatmo influxdb python
 
 latest version is 0.2.0
 
