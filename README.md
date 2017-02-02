@@ -1,9 +1,9 @@
 # docker netatmo influxdb python
 
-latest version is 0.2.0
+latest version is 0.3.0
 
 ```
-docker pull manabuishii/docker-netatmo-influxdb-python:0.2.0
+docker pull manabuishii/docker-netatmo-influxdb-python:0.3.0
 ```
 
 # Prepare InfluxDB
@@ -43,7 +43,7 @@ docker run --rm \
  -e INFLUXDB_PASSWORD="" \
  -e INFLUXDB_DATABASE="" \
  --name YOURDOCKERHOSTNAME \
- manabuishii/docker-netatmo-influxdb-python:0.2.0
+ manabuishii/docker-netatmo-influxdb-python:0.3.0
 ```
 
 Polling 1 per 60 seconds.
